@@ -1,0 +1,12 @@
+{
+    "model": "Ridge Regression",
+    "feature_selection": "SelectKBest(f_regression)",
+    "selected_features": 100,
+    "ridge_alpha": 10,
+    "cross_validation": "5-fold GroupKFold",
+    "groups": "twin_pair",
+    "samples": 54,
+    "original_features": 53485,
+    "mae_years": 12.656646410957554,
+    "r2": 0.48840432042974846
+}
